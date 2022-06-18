@@ -8,4 +8,4 @@
 - 🔭 Atualmente estou trabalhando como estagiário na empresa eletronuclear
 - 📫 Como chegar até mim através do meu instagram lucasemanuel013
 
- <div class="tenor-gif-embed" data-postid="10979006" data-share-method="host" data-aspect-ratio="1.05455" data-width="100%"><a href="https://tenor.com/view/lit-dance-kids-groove-feeling-it-gif-10979006">Lit Dance GIF</a>from <a href="https://tenor.com/search/lit-gifs">Lit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Snake animation](https://github.com/lucasemanuel013/lucasemanuel013/blob/output/github-contribution-grid-snake.svg)
