@@ -7,5 +7,5 @@
 
 - 🔭 Atualmente estou trabalhando como estagiário na empresa eletronuclear
 - 📫 Como chegar até mim através do meu instagram lucasemanuel013
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/lucasemanuel013/lucasemanuel013/blob/output/github-contribution-grid-snake.svg)
