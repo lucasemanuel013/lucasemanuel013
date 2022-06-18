@@ -7,5 +7,10 @@
 
 - 🔭 Atualmente estou trabalhando como estagiário na empresa eletronuclear
 - 📫 Como chegar até mim através do meu instagram lucasemanuel013
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+<a href="https://github.com/lucasemanuel013">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?lucasemanuel013-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasemanuel013&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
